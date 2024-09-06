@@ -1,1 +1,1 @@
-# Parking domain for icvhack.lol
+# Parking domain
